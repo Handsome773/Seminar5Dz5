@@ -22,7 +22,7 @@ body {
   gap: 30px;
 }
 
-.advantages__item4 {
+.advantages__four {
   grid-column: 1/3;
   grid-row: 2/4;
 }
@@ -30,11 +30,6 @@ body {
 .advantages__back {
   border-radius: 10px;
   background: #132035;
-}
-
-.advantages > div {
-  /* border-radius: 10px;
-  background: #132035; */
 }
 
 .advantages .advantages__contaner {
